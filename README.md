@@ -42,4 +42,6 @@ The notebook uses a combination of **bar charts** and **histograms** to visualiz
 To install required packages:
 
 ```bash
-pip install pandas matplotlib seaborn
+pip install pandas
+pip install matplotlib
+pip install seaborn
