@@ -1,5 +1,3 @@
-bahsnajskbgfnaksibankbansknajskfardin
-
 # 🚢 Titanic Dataset - Exploratory Data Analysis (EDA)
 
 This project performs a detailed Exploratory Data Analysis (EDA) on a Titanic dataset or similar population-based dataset. The primary goal is to understand the structure and distribution of demographic features such as **age**, **gender**, and **survival rate** (if applicable) using Python data visualization libraries.
